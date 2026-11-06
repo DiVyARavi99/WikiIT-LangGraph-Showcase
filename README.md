@@ -1,7 +1,4 @@
-# WikiIT-LangGraph-Showcase
----
-
-# WikiIT – Hugging Face Agents Course, Final Assignment
+# WikiIT-LangGraph-Showcase – Hugging Face Agents Course, Final Assignment
 
 A tool-using research agent built with **LangGraph** that answers the 20 GAIA Level-1
 questions of the [Hugging Face Agents Course](https://huggingface.co/learn/agents-course)
