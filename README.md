@@ -1,6 +1,6 @@
 # WikiIT-LangGraph-Showcase
 ---
-title: WikiIT – HF Agents Course Final Assignment
+WikiIT – HF Agents Course Final Assignment
 sdk: gradio
 sdk_version: 5.25.2
 ---
@@ -15,8 +15,8 @@ speech-to-text and a vision model, and submits the answers for exact-match gradi
 
 ## Results
 
-| Version | What changed | Score |
-|---|---|---|
+| Version | What changed |
+|---|---|
 | v0 | Course template, fixed default answer 
 | v0.1 | LLM only, no prompt engineering, no tools 
 | v0.2 | System prompt with `FINAL ANSWER:` convention + answer extraction
