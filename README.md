@@ -1,9 +1,5 @@
 # WikiIT-LangGraph-Showcase
 ---
-WikiIT – HF Agents Course Final Assignment
-sdk: gradio
-sdk_version: 5.25.2
----
 
 # WikiIT – Hugging Face Agents Course, Final Assignment
 
